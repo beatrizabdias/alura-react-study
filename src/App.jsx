@@ -1,5 +1,5 @@
 import './App.css'
-import {FormularioDeEvento} from './components/FormularioDeEvento'
+import { FormularioDeEvento } from './components/FormularioDeEvento'
 import { Tema } from './components/Tema'
 import { Banner } from './components/Banner'
 import { CardEvento } from './components/CardEvento'
@@ -41,6 +41,7 @@ function App() {
       titulo: 'Mulheres no Front'
     }
   ]
+  
   return (
     <main>
       <header>

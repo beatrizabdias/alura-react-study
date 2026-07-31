@@ -1,12 +1,10 @@
 import './formulario-de-eventos.estilos.css'
-import { TituloFormulario } from '../TituloFormulario';
-import { CampoDeEntrada } from '../CampoDeEntrada';
-import { CampoDeFormulario } from '../CampoDeFormulario';
-import { Botao } from '../Botao';
-import { Label } from '../Label';
-import { ListaSuspensa } from '../ListaSuspensa';
-
-
+import { TituloFormulario } from '../TituloFormulario'
+import { CampoDeEntrada } from '../CampoDeEntrada'
+import { CampoDeFormulario } from '../CampoDeFormulario'
+import { Botao } from '../Botao'
+import { Label } from '../Label'
+import { ListaSuspensa } from '../ListaSuspensa'
 
 
 export function FormularioDeEvento(){
