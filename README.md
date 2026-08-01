@@ -1,16 +1,28 @@
-# React + Vite
+# 📌 TecBoard
+![Demonstração do Tecboard](./src/assets/screenshot.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Seu hub de eventos de tecnologia! Aplicação desenvolvida para cadastro, organização e filtragem de eventos por tema.
 
-Currently, two official plugins are available:
+> 🎓 Projeto de estudos desenvolvido no curso **React 19: JSX, componentes, form action e useState** da **Alura**, ministrado pelo professor **Vinicios Neves**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛠️ Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React + Vite
+* useState
+* FormData
+* CSS Modules
+* Google Fonts (Work Sans + Orbitron)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Objetivos & Aprendizados
+
+* **Programação Declarativa:** Entendimento da lógica do React baseada em estado
+* **Componentização & Props:** Criação de componentes reutilizáveis e passagem de dados
+* **Gerenciamento de Estado (`useState`):** Atualização dinâmica da interface
+* **Formulários Interativos (`FormData`):** Captura e manipulação de dados
+* **Renderização Condicional & Filtros:** Uso de `map`, `filter` e `some`
+
+---
